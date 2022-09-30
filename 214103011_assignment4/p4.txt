@@ -1,0 +1,5 @@
+
+			 Determination of integral using Gauss Quadrature
+
+Legend Poly n  GaussQuad Value  	Exact Value
+3		7938.324175		7990.000000

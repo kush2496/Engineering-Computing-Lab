@@ -1,0 +1,5 @@
+
+			 Determination of integral using Gauss Quadrature
+
+Legend Poly nx      ny  	2-D GaussQuad Value  	Exact Value
+2		     2		0.033226		0.222222

@@ -1,0 +1,7 @@
+1.000000	1.000000	1.000000	0.000000	
+0.000000	-5.000000	-5.000000	2.000000	
+0.000000	0.000000	0.000000	0.000000	
+Multiple solution exists!
+x0 = Multiple solution
+x1 = Multiple solution
+x2 = Multiple solution

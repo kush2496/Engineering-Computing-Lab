@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634577108 source:c:\users\kushagra shrivastava\desktop\iit guwahati\me502\assignment 4\214103011\214103011_assignment4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

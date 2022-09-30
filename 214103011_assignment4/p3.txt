@@ -1,0 +1,12 @@
+
+			 Determination of PI using Gauss Quadrature
+
+Intervals	Method1_GQ	Method2_GQ
+1		0.000000		0.000000
+2		-1.#IND00		1.846154
+3		-1.#IND00		3.692308
+4		-1.#IND00		5.538462
+5		-1.#IND00		7.384616
+6		-1.#IND00		9.230770
+7		-1.#IND00		11.076924
+8		-1.#IND00		12.923078
